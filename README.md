@@ -62,7 +62,7 @@ Record everyday Top GPTs in ChatGPT GPTs Store
 
 ## Writing
 > Enhance your writing with tools for creation, editing, and style refinement
-- [Write For Me](https://chat.openai.com/g/g-B3hgivKK9-write-for-me) Write tailored, engaging content with a focus on quality, relevance and precise word count.
+- [Paraphrasing Tool](https://chat.openai.com/g/g-6PQzHbwcS-paraphrasing-tool) Best AI Paraphrasing Tool - Enhance, Rephrase, and Innovate by MyEssayWriter.ai.
 - [👌Academic Assistant Pro](https://chat.openai.com/g/g-Ej5zYQRIB-academic-assistant-pro) Professional academic assistant with a professorial touch
 - [Humanizer Pro](https://chat.openai.com/g/g-2azCVmXdy-humanizer-pro) #1 Humanizer in the market. This tool humanizes your content to bypass the most advanced AI detectors, maintaining content meaning and quality with a 100% human score. Currently it supports only English.
 - [✏️All-around Writer (Professional Version)](https://chat.openai.com/g/g-UbpNAGYL9-all-around-writer-professional-version) A professional writer📚 who specializes in writing all types of content (essays, novels, articles, copywriting)...
@@ -71,7 +71,7 @@ Record everyday Top GPTs in ChatGPT GPTs Store
 - [Human Writer-Humanizer-Paraphraser (Human GPT) 🖊️](https://chat.openai.com/g/g-kXxAXdu9r-human-writer-humanizer-paraphraser-human-gpt) I self-score my output helping you effectively avoid AI content detectors. I'm equipped  with Web Tools and Support Files. You can ask anything, and I'll reply like a human. For better results, please specify your prefered writing style/tone.
 - [Copywriter GPT](https://chat.openai.com/g/g-Ji2QOyMml-copywriter-gpt) Your innovative partner for viral ad copywriting! Dive into viral marketing strategies fine-tuned to your needs!
 - [Text to Video](https://chat.openai.com/g/g-Dfo2YQk0Y-text-to-video) Sora transforms text prompts into detailed video scenes, simulating real-world dynamics.
-- [Essay Writer 😎](https://chat.openai.com/g/g-OHtksi5YI-essay-writer) Expert essay writing helper by essaypro.com
+- [Essay Writer 😎](https://chat.openai.com/g/g-HEklcm4OP-essay-writer) Advanced AI-Powered Essay Writing Tools by essayservice.ai
 
 ## Productivity
 > Increase your efficiency
